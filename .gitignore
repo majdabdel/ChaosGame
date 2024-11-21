@@ -1,5 +1,5 @@
 .vs*
-*.vcx*
+.vcx
 *.sln
 x64
 x86
